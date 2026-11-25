@@ -1,8 +1,8 @@
 # Two Lines to Your Past Self
 
-![make.fun](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca.svg)
-![rank](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/kongkong070/u-suga-two-lines-to-your-past-self-f36c83ca/rank.svg)
-![reward](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/kongkong070/u-suga-two-lines-to-your-past-self-f36c83ca/reward.svg)
+[![make.fun](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca.svg)
+[![rank](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/kongkong070/u-suga-two-lines-to-your-past-self-f36c83ca/rank.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
+[![reward](https://make.fun/badge/u-suga-two-lines-to-your-past-self-f36c83ca/kongkong070/u-suga-two-lines-to-your-past-self-f36c83ca/reward.svg)](https://make.fun/bounty/u-suga-two-lines-to-your-past-self-f36c83ca)
 
 Entry for [Two Lines to Your Past Self](https://make.fun/c/u-suga-two-lines-to-your-past-self-f36c83ca) by [@kongkong070](https://make.fun/r/hdtrjaj5).
 
